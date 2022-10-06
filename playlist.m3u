@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
+https://hlsvideom3u.netlify.app/Pervii.m3u8
+#EXTINF:-1,02 РОССИЯ-1
+https://hlsvideom3u.netlify.app/Rossia1.m3u8
+#EXTINF:-1,03 МАТЧ!
+https://hlsvideom3u.netlify.app/Match.m3u8
+#EXTINF:-1,04 НТВ
+https://hlsvideom3u.netlify.app/NTV.m3u8
+#EXTINF:-1,05 ПЯТЫЙ КАНАЛ
+https://hlsvideom3u.netlify.app/5Kanal.m3u8
+#EXTINF:-1,06 РОССИЯ-К
+https://hlsvideom3u.netlify.app/RossiaKultura.m3u8
+#EXTINF:-1,07 РОССИЯ-24
+https://hlsvideom3u.netlify.app/Rossia24.m3u8
+#EXTINF:-1,08 КАРУСЕЛЬ
+https://hlsvideom3u.netlify.app/Karusel.m3u8
+#EXTINF:-1,09 ОТР
+https://hlsvideom3u.netlify.app/OTR.m3u8
+#EXTINF:-1,10 ТВ Центр
+https://hlsvideom3u.netlify.app/TVCentr.m3u8
+#EXTINF:-1,11 РЕН ТВ
+https://hlsvideom3u.netlify.app/RenTV.m3u8
+#EXTINF:-1,12 Спас
+https://hlsvideom3u.netlify.app/Spas.m3u8
+#EXTINF:-1,13 СТС
+https://hlsvideom3u.netlify.app/CTC.m3u8
+#EXTINF:-1,14 Домашний
+https://hlsvideom3u.netlify.app/Domashni.m3u8
+#EXTINF:-1,15 ТВ3
+https://hlsvideom3u.netlify.app/TV3.m3u8
+#EXTINF:-1,16 Пятница
+https://hlsvideom3u.netlify.app/Friday.m3u8
+#EXTINF:-1,17 Звезда
+https://hlsvideom3u.netlify.app/Zvezda.m3u8
+#EXTINF:-1,18 МИР
+https://hlsvideom3u.netlify.app/Mir.m3u8
+#EXTINF:-1,19 ТНТ
+https://hlsvideom3u.netlify.app/TNT.m3u8
+#EXTINF:-1,20 МУЗ ТВ
+https://hlsvideom3u.netlify.app/MuzTV.m3u8
